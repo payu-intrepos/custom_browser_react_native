@@ -1,5 +1,5 @@
 
-# PayU CustomBrowser React-Native wrapper
+# PayU CustomBrowser React-Native Wrapper
 
 ## Getting started
 

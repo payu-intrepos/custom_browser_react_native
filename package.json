@@ -17,11 +17,15 @@
     "react-native": ">=0.52.0",
     "react": ">=15.4.2"
   },
+  "bugs": {
+    "url": "https://github.com/payu-intrepos/custom_browser_react_native/issues"
+  },
+  "homepage": "https://github.com/payu-intrepos/custom_browser_react_native",
   "dependencies": {
     "react-native": ">=0.52.0"
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.payu.in:payu/custom-browser-react.git"
+    "url": "https://github.com/payu-intrepos/custom_browser_react_native.git"
   }
 }
