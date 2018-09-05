@@ -1,0 +1,27 @@
+{
+  "name": "com.payu.custombrowser.react-native",
+  "version": "1.0.1-alpha",
+  "description": "Custom Browser Wrapper for React-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "custom-browser",
+    "payu-india"
+  ],
+  "author": "payuindia",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.52.0",
+    "react": ">=15.4.2"
+  },
+  "dependencies": {
+    "react-native": ">=0.52.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.payu.in:payu/custom-browser-react.git"
+  }
+}

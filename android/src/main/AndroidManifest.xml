@@ -1,0 +1,11 @@
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.cbwrapper">
+    <application
+        android:allowBackup="false">
+    <activity
+        android:name="com.cbwrapper.CustomBrowserWrapperActivity">
+    </activity>
+    </application>
+</manifest>
+  

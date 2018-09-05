@@ -1,0 +1,9 @@
+.gradle
+/local.properties
+.DS_Store
+bin
+gen
+android-sdk-test-project.iml
+app/app.iml
+.idea
+build
